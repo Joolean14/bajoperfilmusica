@@ -84,3 +84,25 @@
   .whatsapp-icon {
     margin-top:13px;
   }
+
+  .video-large {
+    display: block;
+  }
+  .video-small {
+    display: none;
+  }
+
+@media (max-width: 600px) {
+  .lead {
+    font-size: 3.5vw;
+  }
+
+  .video-large {
+    display: none;
+  }
+
+  .video-small {
+    display: block;
+  }
+
+}
