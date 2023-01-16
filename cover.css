@@ -37,6 +37,11 @@
  .logo {
    font-family: 'Indie Flower', cursive;
  }
+
+ .logos {
+  margin: 0.3vw;
+  width: 10vw;
+}
  
  .nav-masthead .nav-link {
    color: rgba(255, 255, 255, .5);
@@ -104,5 +109,10 @@
   .video-small {
     display: block;
   }
+
+  .logos {
+    margin: 0.3vw;
+    width: 20vw;
+}
 
 }
